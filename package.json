@@ -1,0 +1,24 @@
+{
+  "name": "nft",
+  "version": "1.0.0",
+  "description": "mint my nft",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nft"
+  ],
+  "author": "vsszhang tianjingzhou",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2",
+    "@types/yargs": "^17.0.11",
+    "hardhat": "^2.10.1"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.2",
+    "dotenv": "^16.0.1",
+    "ipfs-car": "^0.8.1"
+  }
+}

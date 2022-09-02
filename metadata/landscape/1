@@ -1,0 +1,25 @@
+{
+    "description": "Blue sky, Geern mountain and clear lake",
+    "image": "https://bafybeid3t6xn77xq5siyukaw7s2jresgvio6aa7u6onjxsdxjzfil34sgq.ipfs.nftstorage.link/sky-mountain-lake.png",
+    "name": "A#1/2 sky-mountain-lake",
+    "attributes": [
+        {
+            "trait_type": "Shooting time",
+            "value": "Oct. 10th"
+        },
+        {
+            "trait_type": "State",
+            "value": "In progress"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Mint Time",
+            "value": 1659970552
+        },
+        {
+            "display_type": "boost_percentage",
+            "trait_type": "Sync",
+            "value": 50
+        }
+    ]
+}

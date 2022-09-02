@@ -1,0 +1,24 @@
+{
+    "name": "long live communism🫡 ",
+    "description": "Comrade, for long live of Communism",
+    "image": "ipfs://bafybeibd5vjsrivy7tbnvh3rqarzgmdmht3vq4pyigawt2ftmjupwxzxke",
+    "properties": {
+        "simple_property": "long live",
+        "rich_property": {
+            "name": "Comrade",
+            "value": "1949",
+            "display_value": "number",
+            "class": "emphasis",
+            "css": {
+                "color": "#ffffff",
+                "font-weight": "bold",
+                "text-decoration": "underline"
+            }
+        },
+        "array_property": {
+            "name": "array",
+            "value": [1,2,3,4],
+            "class": "emphasis"
+        }
+    }
+}

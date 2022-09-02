@@ -1,0 +1,35 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Fur",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Default"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "White Shades"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Winter Red"
+        },
+        {
+            "trait_type": "Hand",
+            "value": "Coffee"
+        }
+    ],
+    "name": "SubwayRat #3221",
+    "description": "NYC Subway Rat chilling at Headquarters",
+    "image": "https://subwayrats.io/api/rat/headquarters_grey_default_blank_blank_white-shades_winter-red_coffee.png"
+}

@@ -1,0 +1,33 @@
+{
+    "name": "WULA",
+    "description": "This picture shows my second ACE time",
+    "image": "ipfs://bafybeibnppxjjamlckaum5jtcog4zfo6n26cqg42i5vytodsgoera3ytdi",
+    "external_url": "https://github.com/vsszhang/images/blob/master/contracts/nft/test/ACE.PNG",
+    "attributes": [
+        {
+            "trait_type": "location",
+            "value": "Easr WZ"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "win time",
+            "value": 1659801540
+        },
+        {
+            "display_type": "boost_percentage",
+            "trait_type": "Win Rate",
+            "value": 73.4
+        },
+        {
+            "display_type": "number",
+            "trait_type": "ACE time",
+            "value": 2
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Gold Gun",
+            "value": 3
+        }
+    ]
+
+}
